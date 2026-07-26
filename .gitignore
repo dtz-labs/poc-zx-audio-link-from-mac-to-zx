@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated artifacts (see "Generate the artifacts" in README.md)
+receiver.tap
+selftest.tap
+*.wav
