@@ -1,6 +1,6 @@
 # ZX Audio Link
 
-[![CI](https://github.com/dtz-labs/poc-zx-audio-link/actions/workflows/ci.yml/badge.svg)](https://github.com/dtz-labs/poc-zx-audio-link/actions/workflows/ci.yml)
+[![CI](https://github.com/dtz-labs/poc-zx-audio-link-from-mac-to-zx/actions/workflows/ci.yml/badge.svg)](https://github.com/dtz-labs/poc-zx-audio-link-from-mac-to-zx/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **macOS to ZEsarUX to Timex TC2048, over plain audio.**
