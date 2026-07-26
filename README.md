@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/dtz-labs/poc-zx-audio-link-from-mac-to-zx/actions/workflows/ci.yml/badge.svg)](https://github.com/dtz-labs/poc-zx-audio-link-from-mac-to-zx/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mpasternak)
 
 **macOS to ZEsarUX to Timex TC2048, over plain audio.**
 
